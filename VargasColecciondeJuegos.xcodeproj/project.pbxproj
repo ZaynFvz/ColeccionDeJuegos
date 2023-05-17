@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F42E2A1D2A152923008DD6DE /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F42E2A1C2A152923008DD6DE /* JuegosViewController.swift */; };
 		F4CE40682A151FA400D99317 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CE40672A151FA400D99317 /* AppDelegate.swift */; };
 		F4CE406A2A151FA400D99317 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CE40692A151FA400D99317 /* SceneDelegate.swift */; };
 		F4CE406C2A151FA400D99317 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CE406B2A151FA400D99317 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F42E2A1C2A152923008DD6DE /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 		F4CE40642A151FA400D99317 /* VargasColecciondeJuegos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VargasColecciondeJuegos.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4CE40672A151FA400D99317 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4CE40692A151FA400D99317 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				F4CE40752A151FA500D99317 /* LaunchScreen.storyboard */,
 				F4CE40782A151FA500D99317 /* Info.plist */,
 				F4CE40702A151FA400D99317 /* VargasColecciondeJuegos.xcdatamodeld */,
+				F42E2A1C2A152923008DD6DE /* JuegosViewController.swift */,
 			);
 			path = VargasColecciondeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F42E2A1D2A152923008DD6DE /* JuegosViewController.swift in Sources */,
 				F4CE406C2A151FA400D99317 /* ViewController.swift in Sources */,
 				F4CE40722A151FA400D99317 /* VargasColecciondeJuegos.xcdatamodeld in Sources */,
 				F4CE40682A151FA400D99317 /* AppDelegate.swift in Sources */,
